@@ -183,7 +183,7 @@ The repository contains:
 2. [Requirements.txt] (/requirements.txt) - Showing the necessary libraries and dependencies to run the notebook.
 3. Files
    - [football-performance-eda notebook](football-performance-eda.ipynb) - A notebook to conduct our analysis and run our model experiments
-   - [main.py](main.py) - A python script to run our model in production based out of our notebook
+   - [main.py](main.py) - A python script to practice python by extracting steps from our notebook
    - [model_performance.csv] - CSV to store our model performance to track how it's improved over time
 4. [Gitignore File](/.gitignore) - File to ignore files and directories from being pushed to the remote repository
 5. [README.md File](/README.md) - Guiding instructions for describing and running the project.

@@ -202,7 +202,6 @@ if __name__ == '__main__':
         # Data Preprocessing
         df = data_preprocessing(df)
         
-        print('THE DF is', df)
         # Feature Engineering
         df = feature_engineering(df)
         
